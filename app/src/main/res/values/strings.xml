@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="minsec">0 Min , 0 Sec</string>
+</resources>
